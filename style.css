@@ -1,0 +1,29 @@
+body {
+    display:flex; 
+    flex-direction:column;
+    background-color: #eae7dc;
+    font-family:"Courier New";
+}
+h1 {
+    color:#e85a4f;
+}
+h3 {
+    color:#e98074;
+}
+h4 {
+    color:#d8c3a5;
+}
+p {
+    color: #8e8d8a;
+    padding-left: 20px;
+}
+li {
+    color: #8e8d8a;
+}
+table {
+    width: 100px;
+}
+img {
+    width: 30px;
+    height: 30px;
+}
